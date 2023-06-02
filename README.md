@@ -1,7 +1,7 @@
 # Scrapy Project (Jobstreet.vn)
 
 <h2>Objective</h2>
-In this project, I will scrape data using scrapy python on [here](https://www.jobstreet.vn/j?sp=search&q=C%C3%B4ng+ngh%E1%BB%87+th%C3%B4ng+tin&l).
+In this project, I will scrape data using scrapy python on [here](https://www.jobstreet.vn/j?sp=search&q=C%C3%B4ng+ngh%E1%BB%87+th%C3%B4ng+tin&l)
 
 <h2>Script</h2>
 
